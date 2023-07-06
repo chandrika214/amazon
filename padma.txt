@@ -1,0 +1,3 @@
+hai
+today im learing about git and github commands
+today i wanted to finish it
